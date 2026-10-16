@@ -1,4 +1,4 @@
-herename: Build TubeStitch APK
+name: Build TubeStitch APK
 on:
   push:
   workflow_dispatch:
